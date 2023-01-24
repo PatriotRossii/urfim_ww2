@@ -1,0 +1,3 @@
+-- "noname.lua"
+-- Retrieved by https://github.com/lewisclark/glua-steal
+-- 5444
